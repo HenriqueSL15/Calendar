@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div1{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
+
+.div2{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.div3{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
